@@ -18,3 +18,13 @@ public class Q3 {
             }
     }
 }
+// "C:\Program Files\Java\jdk-19\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\lib\idea_rt.jar=65174:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Coditas\IdeaProjects\EvalutionTool\out\production\EvalutionTool Q3
+// monday
+// tuesday
+// wednesday
+// thursday
+// friday
+// saturday
+// sunday
+
+// Process finished with exit code 0
