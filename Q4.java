@@ -16,3 +16,5 @@ public class Q4 {
 
     }
 }
+// Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 6 out of bounds for length 6
+// 	at Q4.main(Q4.java:8)
